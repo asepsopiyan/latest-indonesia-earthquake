@@ -8,6 +8,8 @@ this package will use BeautifulSoup4 and Requests, to produce output in the form
 
 ## HOW TO USE?
 ```
+import gempaterkini
+
 if __name__ == '__main__':
     result = gempaterkini.ekstrasi_data()
     gempaterkini.tampilkan_data (result) 
